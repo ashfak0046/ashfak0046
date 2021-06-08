@@ -1,12 +1,5 @@
 ### Hi,I'm Ashfak Mahbub Mahi 👋
 
-<a href="#"><img width="100%" src="https://sohelislamimran.netlify.app/static/media/Developer.e0ed7fbf.svg" height="400px"/></a>
-
-<h3 align="center">Hey there, I'm Sohel Islam Imran <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=SohelIslamImran&label=Profile%20views&color=0e75b6&style=flat" alt="SohelIslamImran" />
-</p>
 
 - 🔭 I’m currently working on Front-End Developing
 - 🌱 I’m currently learning Web Developing
