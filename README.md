@@ -1,33 +1,41 @@
-### Hi,I'm Ashfak Mahbub Mahi 👋
+# Hi, I'm Ashfak Mahbub Mahi! 👋
 
+I'm a MERN-Stack Web Developer passionate about building scalable and efficient web applications. I enjoy working with React, Node.js, and MongoDB to create engaging user experiences. I believe in continuous learning and strive to stay updated with the latest technologies in web development.
 
-### 📖 About me
+## 📖 About Me
 
-I am a MERN-Stack WEB Developer. I am working with React, Node.js and MongoDB. I also have experience in developing static websites using HTML5, CSS3 and JavaScript (ES6). I am a quick learner. I believe in hard work and efficiency. That's why I am always ready to accomplish any task by working hard. I always focus on learning new technology. My goal is to become A World-Class Professional Web Developer. 
+- 💻 I specialize in MERN (MongoDB, Express.js, React, Node.js) stack development.
+- 🌱 I'm always learning and exploring new technologies to enhance my skills.
+- 👯 I'm open to collaborations and new opportunities in web development projects.
+- 🎓 Currently pursuing my goal to become a world-class professional web developer.
 
-### "Code until you find your solution"! 👋
-![run](https://media0.giphy.com/media/WfwzZpfH8Ejra/giphy.gif)
+## 🚀 Languages and Tools
 
-## 💻 Languages and Tools:
-
-![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
-![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
-![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
-![Bootstrap5](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
-![Material-UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=Material%20UI&logoColor=ffffff&labelColor=0081CB)
-![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
-![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
-![Json Web Tokens](https://img.shields.io/badge/-Json%20Web%20Tokens-000000?style=flat&logo=json-web-tokens&logoColor=ffffff&labelColor=000000)
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
-![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
-![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
-![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=Node.js)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=563D7C)
+![Material UI](https://img.shields.io/badge/-Material%20UI-000000?style=flat&logo=material-ui&logoColor=ffffff)
+![Font Awesome](https://img.shields.io/badge/-Font%20Awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code)
+![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm)
+![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint)
 
-<img src="https://github-readme-stats.vercel.app/api?username=ashfak0046&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashfak0046&card_width=500&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ashfak0046&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ashfak0046&card_width=500&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515)
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/ashfak-mahbub/)
+- [Twitter](https://twitter.com/MahbubAshfak)
+- [Email](ashfakmahbub006@gmail.com)
+
+Let's connect and collaborate on exciting projects together!
